@@ -1,0 +1,12 @@
+.product{
+    text-align: center;
+    color: aquamarine;
+}
+
+._product_list{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    /* margin-left: -15px;
+    margin-right: -15px; */
+}
